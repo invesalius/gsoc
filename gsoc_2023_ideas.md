@@ -115,4 +115,4 @@ InVesalius currently does not support the simultaneous visualization of function
 
 **Possible mentors:** TBA
 
-**References**: https://github.com/invesalius/invesalius3/issues/507, https://www.hopkinsmedicine.org/radiology/patient-information/exams-procedures/functional-mri.html
+**References**: https://github.com/invesalius/invesalius3/issues/507 and https://www.hopkinsmedicine.org/radiology/patient-information/exams-procedures/functional-mri.html
