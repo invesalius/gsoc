@@ -12,10 +12,11 @@ Use tools like unittest or pytest to add tests to InVesalius code. That way, whe
 - Unit tests in InVesalius code
 - Github-CI action for running tests when committing or posting a pull-request"	Python and YAML
 
-
 **Programming Languages**: Python and YAML
 
 **Duration**: 175h
+
+**Possible mentors:** TBA
 
 **References**: https://github.com/invesalius/invesalius3/issues/496 and https://realpython.com/python-testing/
 
@@ -33,7 +34,9 @@ Since python 3.5 it is possible to add type information to the parameters of fun
 
 **Programming Languages**: Python and YAML
 
-**Duration**: 175h	
+**Duration**: 175h
+
+**Possible mentors:** TBA
 
 **References**: https://github.com/invesalius/invesalius3/issues/497, https://docs.python.org/3/library/typing.html and https://mypy-lang.org/
 
@@ -47,9 +50,11 @@ Tool that allows the user to activate the capture of logs and errors. It should 
 **Deliverables**:
 - Graphic interface integrated to InVesalius that allows the user to activate the tool and save the logs.
 
-**Duration**: 350h  
-
 **Programming Languages**:  Python
+
+**Duration**: 350h 
+
+**Possible mentors:** TBA
 
 **References**: https://github.com/invesalius/invesalius3/issues/498, https://docs.python.org/3/library/logging.html and https://realpython.com/python-logging/
 
@@ -64,9 +69,11 @@ Currently, InVesalius has fixed scene lighting options. Shaders allow you to man
 **Deliverables**: 
 - Tool that allows loading and applying custom shaders in InVesalius rendering scenes. It is desirable that the tool displays the shader code and allows editing and applying for the user to see the changes.
 
+**Programming Languages**: Python and GLSL
+
 **Duration**:175h
 
-**Programming Languages**: Python and GLSL
+**Possible mentors:** TBA
 
 **References**: https://github.com/invesalius/invesalius3/issues/499, https://vtk.org/Wiki/Shaders_In_VTK and https://learnopengl.com/Getting-started/Shaders
 
@@ -80,11 +87,13 @@ The neuronavigation feature of InVesalius currently does not follow user experie
 
 **Deliverables**:
 - Description and documentation of the neuronavigation workflow
-- Refactored neuronavigation user controls and settings"
+- Refactored neuronavigation user controls and settings
+
+**Programming Languages**: Python
 
 **Duration** :350h
 
-**Programming Languages**: Python
+**Possible mentors:** TBA
 
 ---
 
@@ -98,6 +107,8 @@ InVesalius currently does not support the simultaneous visualization of function
 - User interface to support and control fMRI parameters
 - Visualization features for fMRI
 
+**Programming Languages**: Python
+
 **Duration** :350h
 
-**Programming Languages**: Python
+**Possible mentors:** TBA
