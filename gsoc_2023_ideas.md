@@ -95,13 +95,15 @@ The neuronavigation feature of InVesalius currently does not follow user experie
 
 **Possible mentors:** TBA
 
+**References**: https://github.com/invesalius/invesalius3/issues/506
+
 ---
 
 ### Add functional MRI support to InVesalius
 
 InVesalius currently does not support the simultaneous visualization of functional and structural MRI. This task will expand the support to processed functional MRI.
 
-**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies.
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. 
 
 **Deliverables**:
 - User interface to support and control fMRI parameters
@@ -112,3 +114,5 @@ InVesalius currently does not support the simultaneous visualization of function
 **Duration**: 350h
 
 **Possible mentors:** TBA
+
+**References**: https://github.com/invesalius/invesalius3/issues/507, https://www.hopkinsmedicine.org/radiology/patient-information/exams-procedures/functional-mri.html
