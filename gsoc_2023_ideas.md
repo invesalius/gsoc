@@ -10,7 +10,7 @@ Use tools like unittest or pytest to add tests to InVesalius code. That way, whe
 
 **Deliverables**:
 - Unit tests in InVesalius code
-- Github-CI action for running tests when committing or posting a pull-request"	Python and YAML
+- Github-CI action for running tests when committing or posting a pull-request
 
 **Programming Languages**: Python and YAML
 
@@ -71,7 +71,7 @@ Currently, InVesalius has fixed scene lighting options. Shaders allow you to man
 
 **Programming Languages**: Python and GLSL
 
-**Duration**:175h
+**Duration**: 175h
 
 **Possible mentors:** TBA
 
@@ -91,7 +91,7 @@ The neuronavigation feature of InVesalius currently does not follow user experie
 
 **Programming Languages**: Python
 
-**Duration** :350h
+**Duration**: 350h
 
 **Possible mentors:** TBA
 
@@ -109,6 +109,6 @@ InVesalius currently does not support the simultaneous visualization of function
 
 **Programming Languages**: Python
 
-**Duration** :350h
+**Duration**: 350h
 
 **Possible mentors:** TBA
