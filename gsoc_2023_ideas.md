@@ -1,6 +1,6 @@
 # GSoC 2023 Ideas for InVesalius
 
-All the current ideas for GSoC2022 are listed bellow:
+All the current ideas for GSoC 2023 are listed bellow:
 
 ### Add unit tests to InVesalius to ease the process of adding new features
 
