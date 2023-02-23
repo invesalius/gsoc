@@ -121,9 +121,9 @@ InVesalius currently does not support the simultaneous visualization of function
 
 ### Add PACS communication
 
-InVesalius currently does not support loading DICOM images from a PACS server.
+InVesalius currently does not support loading DICOM images from a PACS server. 
 
-**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. 
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. A PACS server like [Orthanc](https://www.orthanc-server.com/) or [DCM4CHE](https://www.dcm4che.org/).
 
 **Deliverables**:
 - Tool to communicate with PACS server
