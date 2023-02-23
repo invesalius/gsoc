@@ -116,3 +116,23 @@ InVesalius currently does not support the simultaneous visualization of function
 **Possible mentors:** TBA
 
 **References**: https://github.com/invesalius/invesalius3/issues/507 and https://www.hopkinsmedicine.org/radiology/patient-information/exams-procedures/functional-mri.html
+
+---
+
+### Add PACS communication
+
+InVesalius currently does not support loading DICOM images from a PACS server.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. 
+
+**Deliverables**:
+- Tool to communicate with PACS server
+- Save the surfaces and masks in the PACS
+
+**Programming Languages**: Python
+
+**Duration**: 350h
+
+**Possible mentors:** TBA
+
+**References**: https://gdcm.sourceforge.net/html/classgdcm_1_1CompositeNetworkFunctions.html and https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system
