@@ -165,7 +165,7 @@ InVesalius does not have a scale on the window border of axial, coronal, sagitta
 
 ### Performance optimization of real-time neuronavigation
 
-The real-time neuronavigation feature of InVesalius currently works based on multi-threading using Queues, Events, and Jobs (look at #242). Optimization (utilizing the least memory, minimizing its CPU time, and offering high speed) is needed to improve neuronavigation performance.
+The real-time neuronavigation feature of InVesalius currently works based on multi-threading using Queues, Events, and Jobs (look at [#242](https://github.com/invesalius/invesalius3/pull/242)). Optimization (utilizing the least memory, minimizing its CPU time, and offering high speed) is needed to improve neuronavigation performance.
 
 **Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of computer graphics.
 
