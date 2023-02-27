@@ -16,7 +16,7 @@ Use tools like unittest or pytest to add tests to InVesalius code. That way, whe
 
 **Duration**: 175h
 
-**Possible mentors:** TBA
+**Possible mentors:** Thiago Franco de Moraes - totonixsame@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/496 and https://realpython.com/python-testing/
 
@@ -36,7 +36,8 @@ Since python 3.5 it is possible to add type information to the parameters of fun
 
 **Duration**: 175h
 
-**Possible mentors:** TBA
+**Possible mentors:** Thiago Franco de Moraes - totonixsame@gmail.com
+
 
 **References**: https://github.com/invesalius/invesalius3/issues/497, https://docs.python.org/3/library/typing.html and https://mypy-lang.org/
 
@@ -54,7 +55,7 @@ Tool that allows the user to activate the capture of logs and errors. It should 
 
 **Duration**: 350h 
 
-**Possible mentors:** TBA
+**Possible mentors:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/498, https://docs.python.org/3/library/logging.html and https://realpython.com/python-logging/
 
@@ -73,7 +74,7 @@ Currently, InVesalius has fixed scene lighting options. Shaders allow you to man
 
 **Duration**: 175h
 
-**Possible mentors:** TBA
+**Possible mentors:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/499, https://vtk.org/Wiki/Shaders_In_VTK and https://learnopengl.com/Getting-started/Shaders
 
@@ -93,7 +94,7 @@ The neuronavigation feature of InVesalius currently does not follow user experie
 
 **Duration**: 350h
 
-**Possible mentors:** TBA
+**Possible mentors:** Victor Hugo Souza - vhosouza@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/506
 
@@ -113,7 +114,7 @@ InVesalius currently does not support the simultaneous visualization of function
 
 **Duration**: 350h
 
-**Possible mentors:** TBA
+**Possible mentors:** Victor Hugo Souza - vhosouza@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/507 and https://www.hopkinsmedicine.org/radiology/patient-information/exams-procedures/functional-mri.html
 
@@ -133,6 +134,26 @@ InVesalius currently does not support loading DICOM images from a PACS server. T
 
 **Duration**: 350h
 
-**Possible mentors:** TBA
+**Possible mentors:** Thiago Franco de Moraes - totonixsame@gmail.com
 
-**References**: https://gdcm.sourceforge.net/html/classgdcm_1_1CompositeNetworkFunctions.html and https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system
+**References**: https://github.com/invesalius/invesalius3/issues/101 , https://gdcm.sourceforge.net/html/classgdcm_1_1CompositeNetworkFunctions.html, https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system
+
+---
+
+### Add scale in 2D/3D viewer
+
+InVesalius does not have a scale on the window border of axial, coronal, sagittal and 3D/Volume views. This tool helps clinicians quickly visualize the scale of injury, organ, etc.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies.
+
+**Deliverables**:
+- Scale in millimeters on one of the border of the four viewing windows;
+- Scale numbers should change size when the user zoom in/out;
+
+**Programming Languages**: Python
+
+**Duration**: 175h
+
+**Possible mentors:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
+
+**References**: https://github.com/invesalius/invesalius3/issues/96
