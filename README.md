@@ -1,3 +1,5 @@
+<img src="google_summer_of_code_invesalius_vertical.png" alt="GSoC and InVesalius logo" style="height: 60px; width:60px;"/>
+
 # InVesalius GSoC
 
 ## Guidelines and instructions
