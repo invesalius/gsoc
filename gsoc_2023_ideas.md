@@ -1,6 +1,9 @@
 # GSoC 2023 Ideas for InVesalius
 
+See also the instructions for applying [here](https://github.com/invesalius/gsoc/blob/main/gsoc_application.md).
+
 All the current ideas for GSoC 2023 are listed bellow:
+
 
 ### Add unit tests to InVesalius to ease the process of adding new features
 
