@@ -16,7 +16,7 @@ Use tools like unittest or pytest to add tests to InVesalius code. That way, whe
 
 **Duration**: 175h
 
-**Possible mentors:** Thiago Franco de Moraes - totonixsame@gmail.com
+**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/496 and https://realpython.com/python-testing/
 
@@ -36,7 +36,7 @@ Since python 3.5 it is possible to add type information to the parameters of fun
 
 **Duration**: 175h
 
-**Possible mentors:** Thiago Franco de Moraes - totonixsame@gmail.com
+**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
 
 
 **References**: https://github.com/invesalius/invesalius3/issues/497, https://docs.python.org/3/library/typing.html and https://mypy-lang.org/
@@ -55,7 +55,7 @@ Tool that allows the user to activate the capture of logs and errors. It should 
 
 **Duration**: 350h 
 
-**Possible mentors:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
+**Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/498, https://docs.python.org/3/library/logging.html and https://realpython.com/python-logging/
 
@@ -74,7 +74,7 @@ Currently, InVesalius has fixed scene lighting options. Shaders allow you to man
 
 **Duration**: 175h
 
-**Possible mentors:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
+**Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/499, https://vtk.org/Wiki/Shaders_In_VTK and https://learnopengl.com/Getting-started/Shaders
 
@@ -94,7 +94,7 @@ The neuronavigation feature of InVesalius currently does not follow user experie
 
 **Duration**: 350h
 
-**Possible mentors:** Victor Hugo Souza - vhosouza@gmail.com
+**Mentor:** Victor Hugo Souza - vhosouza@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/506
 
@@ -114,7 +114,7 @@ InVesalius currently does not support the simultaneous visualization of function
 
 **Duration**: 350h
 
-**Possible mentors:** Victor Hugo Souza - vhosouza@gmail.com
+**Mentor:** Victor Hugo Souza - vhosouza@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/507 and https://www.hopkinsmedicine.org/radiology/patient-information/exams-procedures/functional-mri.html
 
@@ -134,7 +134,7 @@ InVesalius currently does not support loading DICOM images from a PACS server. T
 
 **Duration**: 350h
 
-**Possible mentors:** Thiago Franco de Moraes - totonixsame@gmail.com
+**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/101 , https://gdcm.sourceforge.net/html/classgdcm_1_1CompositeNetworkFunctions.html, https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system
 
@@ -154,6 +154,6 @@ InVesalius does not have a scale on the window border of axial, coronal, sagitta
 
 **Duration**: 175h
 
-**Possible mentors:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
+**Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/96
