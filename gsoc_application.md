@@ -66,21 +66,21 @@ The Google Drive folder should be named with the following pattern "GSoC2023_Las
 The draft proposal should contain the topics below. Try to detail as much as possible.
 
 
-* ** Name and Contact Information **
+* **Name and Contact Information**
 
-* ** Project Title **
+* **Project Title**
 
-* ** Synopsis **
+* **Synopsis**
 
-* ** Benefits to Community **
+* **Benefits to Community**
 
-* ** Technical proposal **:  Provide a proposal of a technical solution with your methodology.
+* **Technical proposal**:  Provide a proposal of a technical solution with your methodology.
 
-* **Schedule / Deliverables **: Create a schedule that you are sure you will be able to accomplish. Set checkpoints each two weeks.
+* **Schedule / Deliverables**: Create a schedule that you are sure you will be able to accomplish. Set checkpoints each two weeks.
 
-* ** Related Work **
+* **Related Work**
 
-* ** Biographical Information **
+* **Biographical Information**
 
 See also the [contributor guide](https://google.github.io/gsocguides/student/writing-a-proposal) on writing a proposal.
 
