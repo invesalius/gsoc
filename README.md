@@ -1,4 +1,4 @@
-<img src="google_summer_of_code_invesalius_vertical.png" alt="GSoC and InVesalius logo" style="height: 100px; width:100px;"/>
+![GSoC and InVesalius logo](./google_summer_of_code_invesalius_vertical.png "GSoC and InVesalius logo")
 
 # InVesalius GSoC
 
