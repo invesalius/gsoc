@@ -53,7 +53,7 @@ Applicants are encouraged to submit draft proposals, linking to Google Drive wit
 Introduce yourself and send the link to the mentor's email. Use as subject "GSoC 2023: Application". Use this email topic for futures discussions during the application.
 
 
-The Google Drive folder should be named with the following pattern "GSoC2023_LastName_FistName" and must contain the following files:
+The Google Drive folder should be named with the following pattern "GSoC2023_LastName_FirstName" and must contain the following files:
 
 * **proposal:** A google doc with the draft proposal;
 
