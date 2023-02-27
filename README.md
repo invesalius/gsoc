@@ -1,4 +1,4 @@
-![GSoC and InVesalius logo](./google_summer_of_code_invesalius_vertical.png "GSoC and InVesalius logo")
+![GSoC and InVesalius logo](./google_summer_of_code_invesalius_horizontal.png "GSoC and InVesalius logo")
 
 # InVesalius GSoC
 
