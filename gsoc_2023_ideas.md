@@ -65,7 +65,7 @@ Tool that allows the user to activate the capture of logs and errors. It should 
 
 Currently, InVesalius has fixed scene lighting options. Shaders allow you to manipulate part of the graphics pipeline, being able, for example, to change the color, lighting and camera of the scene. In the medical field this is useful as some regions can be better highlighted just by changing the lighting.	
 
-**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies.
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of computer graphics.
 
 **Deliverables**: 
 - Tool that allows loading and applying custom shaders in InVesalius rendering scenes. It is desirable that the tool displays the shader code and allows editing and applying for the user to see the changes.
@@ -144,7 +144,7 @@ InVesalius currently does not support loading DICOM images from a PACS server. T
 
 InVesalius does not have a scale on the window border of axial, coronal, sagittal and 3D/Volume views. This tool helps clinicians quickly visualize the scale of injury, organ, etc.
 
-**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies.
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of geometry and computer graphics.
 
 **Deliverables**:
 - Scale in millimeters on one of the border of the four viewing windows;
