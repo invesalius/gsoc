@@ -160,3 +160,26 @@ InVesalius does not have a scale on the window border of axial, coronal, sagitta
 **Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/96
+
+---
+
+### Performance optimization of real-time neuronavigation
+
+The real-time neuronavigation feature of InVesalius currently works based on multi-threading using Queues, Events, and Jobs (look at #242). Optimization (utilizing the least memory, minimizing its CPU time, and offering high speed) is needed to improve neuronavigation performance.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of computer graphics.
+
+**Deliverables**:
+- Characterize step-by-step code execution time for neuronavigation
+- Improve threads’ sleep times
+- Investigate: WX GUI becomes slower when navigation is on
+- Optimize 3D rendering/updating scene
+
+
+**Programming Languages**: Python
+
+**Duration**: 350h
+
+**Mentor:** Renan Matsuda – renan_hiroshi@hotmail.com
+
+**References**: https://github.com/invesalius/invesalius3/issues/529 and https://github.com/invesalius/invesalius3/pull/242
