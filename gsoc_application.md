@@ -64,7 +64,7 @@ The Google Drive folder must be named with the following pattern "GSoC2023_LastN
 
 * **gist.txt:** A text file with a link to your secret gist from item 2.
 
-The draft proposal should contain the topics below. Try to detail as much as possible.
+The draft proposal must contain the topics below. Try to detail as much as possible.
 
 
 * **Name and Contact Information**
@@ -99,7 +99,7 @@ Good luck!
 
 # Questions? #
 
-* Technical questions about running InVesalius should be asked via [GitHub discussions](https://github.com/invesalius/invesalius3/discussions). Please, remember to check the previous comments and issues before starting a discussion.
+* Technical questions about running InVesalius must be asked via [GitHub discussions](https://github.com/invesalius/invesalius3/discussions). Please, remember to check the previous comments and issues before starting a discussion.
 
-* Specific questions about your project should be addressed by email to your potential mentor.
+* Specific questions about your project must be addressed by email to your potential mentor.
 
