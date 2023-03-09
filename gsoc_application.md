@@ -41,7 +41,6 @@ The code sample can be attached to the application as a [secret gist](https://gi
     * [Sample plugins](https://github.com/tfmoraes/inv3_plugins_examples)
 
     * [Slides](https://github.com/tfmoraes/inv3_plugins_examples/blob/main/slides.html)
- * Create a GUI using [wxPython](https://www.wxpython.org/) that allows the user to write a long text and save it in a .txt file. Add the option to load the text file.
 
 
 Do not spend too much energy on this piece of sample code, as we just want to see you can code something relevant -- and that this sample code can run and do something non-trivial. Be aware that we have a limited number of mentors available, and will only be able to accept a few applicants.
