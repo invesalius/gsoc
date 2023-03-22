@@ -84,6 +84,10 @@ The draft proposal must contain the topics below. Try to detail as much as possi
 
 * **Biographical Information**
 
+* **Expectations after the end of GSoC 2023** 
+
+**IMPORTANT:** Use [this template](https://docs.google.com/document/d/1F6y3brsEIHcQB-BxpDD8LxyKV7qHUycSY7titupEhx0) for your Google Drive.
+
 See also the [contributor guide](https://google.github.io/gsocguides/student/writing-a-proposal) on writing a proposal.
 
 
