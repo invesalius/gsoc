@@ -103,7 +103,7 @@ The neuronavigation feature of InVesalius currently does not follow user experie
 
 ---
 
-### Add functional MRI support to InVesalius
+### Add functional MRI support to InVesalius ([Selected](https://github.com/invesalius/gsoc/blob/main/gsoc_2023_selected.md))
 
 InVesalius currently does not support the simultaneous visualization of functional and structural MRI. This task will expand the support to processed functional MRI.
 
@@ -123,7 +123,7 @@ InVesalius currently does not support the simultaneous visualization of function
 
 ---
 
-### Add PACS communication
+### Add PACS communication ([Selected](https://github.com/invesalius/gsoc/blob/main/gsoc_2023_selected.md))
 
 InVesalius currently does not support loading DICOM images from a PACS server. The idea is to have a way to search for images in a PACS, download the images and load the images.
 
