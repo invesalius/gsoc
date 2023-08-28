@@ -15,7 +15,7 @@ InVesalius currently does not support the simultaneous visualization of function
 **References**: https://github.com/invesalius/invesalius3/issues/507 and https://www.hopkinsmedicine.org/radiology/patient-information/exams-procedures/functional-mri.html
 
 
-**Selected Contributor:** [Michael Chan](https://github.com/miki998) (Switzerland)
+**Contributor:** [Michael Chan](https://github.com/miki998) (Switzerland)
 
 **Mentors**: 
 
@@ -46,7 +46,7 @@ InVesalius currently does not support loading DICOM images from a PACS server. T
 
 **References**: https://github.com/invesalius/invesalius3/issues/101 , https://gdcm.sourceforge.net/html/classgdcm_1_1CompositeNetworkFunctions.html, https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system
 
-**Selected Contributor**: [Vinícius Cavalcanti](https://github.com/hvini) (Brazil)
+**Contributor**: [Vinícius Cavalcanti](https://github.com/hvini) (Brazil)
 
 **Mentors**: 
 
