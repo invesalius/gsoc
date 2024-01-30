@@ -103,25 +103,6 @@ The neuronavigation feature of InVesalius currently does not follow user experie
 
 ---
 
-### Add scale in 2D/3D viewer
-
-InVesalius does not have a scale on the window border of axial, coronal, sagittal and 3D/Volume views. This tool helps clinicians quickly visualize the scale of injury, organ, etc.
-
-**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of geometry and computer graphics.
-
-**Deliverables**:
-- Scale in millimeters on one of the border of the four viewing windows;
-- Scale numbers should change size when the user zoom in/out;
-
-**Programming Languages**: Python
-
-**Duration**: 175h
-
-**Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
-
-**References**: https://github.com/invesalius/invesalius3/issues/96
-
----
 
 ### Performance optimization of real-time neuronavigation
 
