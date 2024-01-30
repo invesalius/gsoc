@@ -2,7 +2,7 @@
 
 See also the instructions for applying [here](https://github.com/invesalius/gsoc/blob/main/gsoc_application.md).
 
-All the current ideas for GSoC 2023 are listed bellow:
+All the current ideas for GSoC 2024 are listed bellow:
 
 
 ### Add unit tests to InVesalius to ease the process of adding new features
@@ -124,3 +124,22 @@ The real-time neuronavigation feature of InVesalius currently works based on mul
 **Mentor:** Renan Matsuda – renan_hiroshi@hotmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/529 and https://github.com/invesalius/invesalius3/pull/242
+
+---
+
+### 3D edition of masks
+
+User can edit a mask in InVesalius slice by slice. That is a very repetitive and error prone job. Since InVesalius has 3D visualizations, it's possible to draw over the rendering area and remove the voxels projected in the painted areas.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of computer graphics.
+
+**Deliverables**:
+- Tool to edit masks using projections.
+
+**Programming Languages**: Python
+
+**Duration**: 350h
+
+**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
+
+**References**: https://github.com/invesalius/invesalius3/issues/91 and https://en.wikipedia.org/wiki/3D_projection
