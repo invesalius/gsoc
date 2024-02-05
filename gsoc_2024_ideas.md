@@ -162,7 +162,7 @@ Currently, the InVesalius interface is not properly designed for different modes
 
 **Duration**: 175h
 
-**Mentor:** TBA
+**Mentor:** Petrus Kirsten - petrus.kirsten@gmail.com / Victor Malheiro - victorhugomalheiro@gmail.com
 
 ---
 
@@ -182,5 +182,4 @@ The process of transcranial magnetic stimulation neuronavigation involves the ge
 
 **Duration**: 350h
 
-**Mentor:** TBA
-
+**Mentor:** Thais Marchetti - thaismarchetti123@gmail.com / Lucas Betioli - lucasantoniobetioli@gmail.com
