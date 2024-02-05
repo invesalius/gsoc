@@ -121,7 +121,7 @@ The real-time neuronavigation feature of InVesalius currently works based on mul
 
 **Duration**: 350h
 
-**Mentor:** Renan Matsuda – renan_hiroshi@hotmail.com
+**Mentor:** TBA
 
 **References**: https://github.com/invesalius/invesalius3/issues/529 and https://github.com/invesalius/invesalius3/pull/242
 
@@ -143,3 +143,44 @@ User can edit a mask in InVesalius slice by slice. That is a very repetitive and
 **Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/91 and https://en.wikipedia.org/wiki/3D_projection
+
+---
+
+### Harmonize and revamp the cross-platform user interface over MacOS, Linux, and Windows
+
+Currently, the InVesalius interface is not properly designed for different modes (Light and Dark) mode, especially on MacOS, for example.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of computer graphics.
+
+**Deliverables:**
+- Unify the color scheme to different modes (light and dark)
+- Apply standard and default colors to UI components
+- Adjust component sizing that are disrupted across platforms
+- Introduce modern icons
+
+**Programming Languages**: Python
+
+**Duration**: 175h
+
+**Mentor:** TBA
+
+---
+
+### Real time neuronavigation motor mapping visualization
+
+The process of transcranial magnetic stimulation neuronavigation involves the generation of motor evoked potentials (MEP), which are detected and measured using electromyography. These MEP signals can be effectively represented through a color map projected onto the brain surface. This innovative approach enables real-time visualization of brain motor mapping, offering a dynamic and comprehensive understanding of neural activity during the procedure.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. 
+
+**Deliverables:**
+- Develop pipeline to receive motor mapping data using websocket
+- Projection of motor mapping data, based on the neuronavigation position, in the brain surface
+- GUI to define the color map preferences and customize the number of stimuli
+- Coordinate communication between the websocket data receiver, projection module, and GUI.
+
+**Programming Languages**: Python
+
+**Duration**: 350h
+
+**Mentor:** TBA
+
