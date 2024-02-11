@@ -51,13 +51,13 @@ Since python 3.5 it is possible to add type information to the parameters of fun
 ---
 
 ### Add logging and error catching tool
-Tool that allows the user to activate the capture of logs and errors. It should be possible to save the sequence of events in a text file. 
+Tool that allows the user to activate the capture of logs and errors. It should be possible to save the sequence of events in a text file. It will be necessary to add logging capture to all functions and functionalities and their respective levels (debug, info, warn, error or critical).
 
 **Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies.
 
 **Deliverables**:
 - Graphic interface integrated to InVesalius that allows the user to activate the tool and save the logs.
-- Add log support to all InVesalius functions.
+- Log support to all InVesalius functions and functionalities.
 
 **Programming Languages**:  Python
 
