@@ -19,6 +19,8 @@ Use tools like unittest or pytest to add tests to InVesalius code. That way, whe
 
 **Duration**: 175h
 
+**Difficulty level:** Intermediate
+
 **Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/496 and https://realpython.com/python-testing/
@@ -39,6 +41,8 @@ Since python 3.5 it is possible to add type information to the parameters of fun
 
 **Duration**: 175h
 
+**Difficulty level:** Intermediate
+
 **Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
 
 
@@ -57,6 +61,8 @@ Tool that allows the user to activate the capture of logs and errors. It should 
 **Programming Languages**:  Python
 
 **Duration**: 350h 
+
+**Difficulty level:** Hard
 
 **Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
@@ -77,6 +83,8 @@ Currently, InVesalius has fixed scene lighting options. Shaders allow you to man
 
 **Duration**: 175h
 
+**Difficulty level:** Intermediate
+
 **Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/499, https://vtk.org/Wiki/Shaders_In_VTK and https://learnopengl.com/Getting-started/Shaders
@@ -96,6 +104,8 @@ The neuronavigation feature of InVesalius currently does not follow user experie
 **Programming Languages**: Python
 
 **Duration**: 350h
+
+**Difficulty level:** Hard
 
 **Mentor:** Victor Hugo Souza - vhosouza@gmail.com
 
@@ -121,6 +131,8 @@ The real-time neuronavigation feature of InVesalius currently works based on mul
 
 **Duration**: 350h
 
+**Difficulty level:** Hard
+
 **Mentor:** TBA
 
 **References**: https://github.com/invesalius/invesalius3/issues/529 and https://github.com/invesalius/invesalius3/pull/242
@@ -139,6 +151,8 @@ User can edit a mask in InVesalius slice by slice. That is a very repetitive and
 **Programming Languages**: Python
 
 **Duration**: 350h
+
+**Difficulty level:** Hard
 
 **Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
 
@@ -162,6 +176,8 @@ Currently, the InVesalius interface is not properly designed for different modes
 
 **Duration**: 175h
 
+**Difficulty level:** Intermediate
+
 **Mentor:** Petrus Kirsten - petrus.kirsten@gmail.com / Victor Malheiro - victorhugomalheiro@gmail.com
 
 ---
@@ -181,5 +197,7 @@ The process of transcranial magnetic stimulation neuronavigation involves the ge
 **Programming Languages**: Python
 
 **Duration**: 350h
+
+**Difficulty level:** Hard
 
 **Mentor:** Thais Marchetti - thaismarchetti123@gmail.com / Lucas Betioli - lucasantoniobetioli@gmail.com
