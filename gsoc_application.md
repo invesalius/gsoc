@@ -1,13 +1,13 @@
-# InVesalius GSoC 2023: Guidelines and instructions #
+# InVesalius GSoC 2024: Guidelines and instructions #
 # Before you apply #
 
 * All projects assume familiarity with Python (and several packages). Aspiring applicants are encouraged to learn it and try to write some code.
 
 * Carefully read the GSoC eligibility rules (see [section 7.1 of the GSoC rules](https://summerofcode.withgoogle.com/rules)).
 
-* Choose one of the [project ideas](https://github.com/invesalius/gsoc/blob/main/gsoc_2023_ideas.md). We are also open to new ideas. In this case write to us at [invesalius@cti.gov.br](mailto:invesalius@cti.gov.br) with the subject "GSoC 2023: New Idea".
+* Choose one of the [project ideas](https://github.com/invesalius/gsoc/blob/main/gsoc_2024_ideas.md). We are also open to new ideas. In this case write to us at [paulojamorim@gmail.com](mailto:paulojamorim@gmail.com) with the subject "GSoC 2024: New Idea".
 
-* IMPORTANT: In order to apply, contact the mentors and follow the steps below. **Remember to submit your final proposal before the deadline on April 4th, 18:00  (UTC).**
+* IMPORTANT: In order to apply, contact the mentors and follow the steps below. **Remember to submit your final proposal before the deadline on April 2nd, 18:00  (UTC).**
 
 # Applying #
 
@@ -36,14 +36,14 @@ The code sample can be attached to the application as a [secret gist](https://gi
 
 * Add type information to some methods or functions;
 
-* Create a simple plugin to apply [erosion](https://en.wikipedia.org/wiki/Erosion_(morphology)) or [dilation](https://en.wikipedia.org/wiki/Dilation_(morphology)) to the current mask:
+* Create a simple plugin to apply (example: [erosion](https://en.wikipedia.org/wiki/Erosion_(morphology)) or [dilation](https://en.wikipedia.org/wiki/Dilation_(morphology)) to the current mask):
 
     * [Sample plugins](https://github.com/tfmoraes/inv3_plugins_examples)
 
     * [Slides](https://github.com/tfmoraes/inv3_plugins_examples/blob/main/slides.html)
 
 
-Do not spend too much energy on this piece of sample code, as we just want to see you can code something relevant -- and that this sample code can run and do something non-trivial. Be aware that we have a limited number of mentors available, and will only be able to accept a few applicants.
+We want to see you can code something relevant -- and that this sample code can run and do something non-trivial. Be aware that we have a limited number of mentors available, and will only be able to accept a few applicants.
 
 
 
@@ -51,11 +51,10 @@ Do not spend too much energy on this piece of sample code, as we just want to se
 
 Applicants are encouraged to submit draft proposals, linking to Google Drive with permission for mentors to comment.
 
-Introduce yourself and send the link to the mentor's email. Use "GSoC 2023: Application" as the message subject. Use this email topic for future discussions during the application.
+Introduce yourself and send the link to the mentor's email. Use "GSoC 2024: Application" as the message subject. Use this email topic for future discussions during the application, .
 
 
-
-The Google Drive folder must be named with the following pattern "GSoC2023_LastName_FirstName" and must contain the following files:
+The Google Drive folder must be named with the following pattern "GSoC2024_LastName_FirstName" and must contain the following files:
 
 * **proposal:** A Google doc with the draft proposal.
 
@@ -84,7 +83,7 @@ The draft proposal must contain the topics below. Try to detail as much as possi
 
 * **Biographical Information**
 
-* **Expectations after the end of GSoC 2023** 
+* **Expectations after the end of GSoC 2024** 
 
 **IMPORTANT:** Use [this template](https://docs.google.com/document/d/1F6y3brsEIHcQB-BxpDD8LxyKV7qHUycSY7titupEhx0). Make a copy for your Google Drive.
 
@@ -93,7 +92,7 @@ See also the [contributor guide](https://google.github.io/gsocguides/student/wri
 
 ### 4. Final submission ###
 
-After following steps 1, 2 and 3 with your potential mentor, applications can be submitted through the [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com) website starting on March 20th until [April 4th at 18:00 (UTC).](https://developers.google.com/open-source/gsoc/timeline?hl=pt-br#april_4_-_1800_utc)
+After following steps 1, 2 and 3 with your potential mentor, applications can be submitted through the [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com) website starting on March 18th until [April 2nd at 18:00 (UTC).](https://developers.google.com/open-source/gsoc/timeline?hl=en)
 
 
 ### 5. Cross your fingers ###
