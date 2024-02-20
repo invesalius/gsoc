@@ -1,6 +1,6 @@
 # GSoC 2024 Ideas for InVesalius
 
-<!--See also the instructions for applying [here](https://github.com/invesalius/gsoc/blob/main/gsoc_application.md).-->
+See also the instructions for applying [here](https://github.com/invesalius/gsoc/blob/main/gsoc_application.md).
 
 All the current ideas for GSoC 2024 are listed bellow:
 
