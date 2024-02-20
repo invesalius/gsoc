@@ -7,7 +7,7 @@
 
 * Choose one of the [project ideas](https://github.com/invesalius/gsoc/blob/main/gsoc_2024_ideas.md). We are also open to new ideas. In this case write to us at [paulojamorim@gmail.com](mailto:paulojamorim@gmail.com) with the subject "GSoC 2024: New Idea".
 
-* IMPORTANT: In order to apply, contact the mentors and follow the steps below. **Remember to submit your final proposal before the deadline on April 2nd, 18:00  (UTC).**
+* IMPORTANT: In order to apply, contact the mentors and follow the steps below. **Remember to submit your final proposal before the deadline on April 2nd, 18:00 (UTC).**
 
 # Applying #
 
@@ -97,7 +97,7 @@ After following steps 1, 2 and 3 with your potential mentor, applications can be
 
 ### 5. Cross your fingers ###
 
-According to the [calendar](https://developers.google.com/open-source/gsoc/timeline?hl=pt-br#may_4_-_1800_utc), the result will be announced on May 4th.
+According to the [calendar](https://developers.google.com/open-source/gsoc/timeline?hl=en), the result will be announced on May 1st 18:00 (UTC).
 
 Good luck!
 
