@@ -202,3 +202,46 @@ The process of transcranial magnetic stimulation neuronavigation involves the ge
 **Difficulty level:** Hard
 
 **Mentor:** Thais Marchetti - thaismarchetti123@gmail.com / Lucas Betioli - lucasantoniobetioli@gmail.com
+
+---
+
+### Surface texture
+
+Add texture to a surface based on the image tissue.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of computer graphics.
+
+**Deliverables**:
+- Tool to set a texture to a surface.
+
+**Programming Languages**: Python
+
+**Duration**: 350h
+
+**Difficulty level:** Hard
+
+**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
+
+**References**: https://en.wikipedia.org/wiki/Texture_mapping
+
+---
+
+
+### Extract surface using Dual contouring
+
+InVesalius uses Marching Cubes to extract surface from volumetric images. It's interesting to have other methods like Marching Tetrahedra and Dual Contouring.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of computer graphics.
+
+**Deliverables**:
+- Tool to generate surfaces using other methods than Marching Cubes.
+
+**Programming Languages**: Python and Cython
+
+**Duration**: 350h
+
+**Difficulty level:** Hard
+
+**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
+ 
+**References**: https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/ https://en.wikipedia.org/wiki/Marching_tetrahedra https://en.wikipedia.org/wiki/Isosurface
