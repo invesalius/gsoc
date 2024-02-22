@@ -255,7 +255,7 @@ When saving or loading files (except DICOM), InVesalius does not provide any fee
 **Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background in GUI.
 
 **Deliverables**:
-- Windows with progress bars for the functionalities specified in the referenced issues.
+- Windows with progress bar for the functionalities specified in the referenced issues (references).
 
 **Programming Languages**: Python
 
