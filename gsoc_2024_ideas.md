@@ -257,7 +257,7 @@ When saving or loading files (except DICOM), InVesalius does not provide any fee
 **Deliverables**:
 - Windows with progress bars for the functionalities specified in the referenced issues.
 
-**Programming Languages**: Python and Cython
+**Programming Languages**: Python
 
 **Duration**: 90h
 
