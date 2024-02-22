@@ -134,7 +134,7 @@ The real-time neuronavigation feature of InVesalius currently works based on mul
 
 **Difficulty level:** Hard
 
-**Mentor:** TBA
+**Mentor:** Victor Hugo Souza - vhosouza@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/529 and https://github.com/invesalius/invesalius3/pull/242
 
