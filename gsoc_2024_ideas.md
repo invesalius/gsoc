@@ -245,3 +245,24 @@ InVesalius uses Marching Cubes to extract surface from volumetric images. It's i
 **Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
  
 **References**: https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/ https://en.wikipedia.org/wiki/Marching_tetrahedra https://en.wikipedia.org/wiki/Isosurface
+
+---
+
+### Improvements in user response (loading and saving files)
+
+When saving or loading files (except DICOM), InVesalius does not provide any feedback to the user. The goal of this task is to implement a window that displays the progress when loading or saving the different types of files that InVesalius handles. This task also includes replacing the progress bar of the volume rendering functionality.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background in GUI.
+
+**Deliverables**:
+- Windows with progress bars for the functionalities specified in the referenced issues.
+
+**Programming Languages**: Python and Cython
+
+**Duration**: 90h
+
+**Difficulty level:** Easy
+
+**Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
+ 
+**References**: https://github.com/invesalius/invesalius3/issues/707 https://github.com/invesalius/invesalius3/issues/708
