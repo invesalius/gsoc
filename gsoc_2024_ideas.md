@@ -282,4 +282,5 @@ The idea in this task is to use Github Actions to create nightly and release InV
 **Programming Languages**: Python
 
 **Duration**: 175h
+
 **References**: https://github.com/invesalius/invesalius3/issues/707 https://github.com/invesalius/invesalius3/issues/708
