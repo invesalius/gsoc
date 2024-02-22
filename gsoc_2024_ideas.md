@@ -283,4 +283,8 @@ The idea in this task is to use Github Actions to create nightly and release InV
 
 **Duration**: 175h
 
-**References**: https://github.com/invesalius/invesalius3/issues/707 https://github.com/invesalius/invesalius3/issues/708
+**Difficulty level:** Intermediate
+
+**Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com and Thiago Franco de Moraes - totonixsame@gmail.com
+
+**References**: https://docs.github.com/en/actions https://pyinstaller.org/en/stable/
