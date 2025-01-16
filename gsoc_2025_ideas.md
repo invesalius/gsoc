@@ -2,7 +2,7 @@
 
 See also the instructions for applying [here](https://github.com/invesalius/gsoc/blob/main/gsoc_application.md).
 
-All the current ideas for GSoC 2024 are listed bellow:
+All the current ideas for GSoC 2025 are listed bellow:
 
 
 ### Add unit tests to InVesalius to ease the process of adding new features
