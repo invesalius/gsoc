@@ -268,3 +268,25 @@ The idea in this task is to use Github Actions to create nightly and release InV
 **Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com and Thiago Franco de Moraes - totonixsame@gmail.com
 
 **References**: https://docs.github.com/en/actions https://pyinstaller.org/en/stable/
+
+---
+
+### Convert from Pytorch to ONNX or Tinygrad
+
+InVesalius uses Pytorch framework to create machine learning based segmentation. The problem is Pytorch is a very large library which makes InVesalius installer and packages very large too. Also, Pytorch has some features not used by InVesalius.
+ONNX is a format to export machine learning models and a library too. Tinygrad is simple library alternative to Pytorch. Both ONNX and Tinygrad are smaller and enough to InVesalius use.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of Machine Learning and AI.
+
+**Deliverables**:
+- Conversion of tool using Pytorch to ONNX or Tinygrad.
+
+**Programming Languages**: Python
+
+**Duration**: 175h
+
+**Difficulty level:** Intermediate
+
+**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com and Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
+
+**References**: https://github.com/tinygrad/tinygrad and https://onnx.ai/
