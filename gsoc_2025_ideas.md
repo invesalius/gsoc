@@ -290,3 +290,26 @@ ONNX is a format to export machine learning models and a library too. Tinygrad i
 **Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com and Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
 **References**: https://github.com/tinygrad/tinygrad and https://onnx.ai/
+
+---
+
+
+### Convert from Pip and Conda to UV
+
+InVesalius uses Pip with requirements.txt. There is also a Conda environment. UV is a fast modern alternative that uses pyproject.toml and other modern Python standards and also can manage Python versions.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies.
+
+**Deliverables**:
+- Conversion to UV and using documentation
+- Conversion of Cython compilation to use pyproject.toml
+
+**Programming Languages**: Python
+
+**Duration**: Python
+
+**Difficulty level:** Easy
+
+**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com and Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
+
+**References**: https://github.com/astral-sh/uv
