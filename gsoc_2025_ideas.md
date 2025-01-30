@@ -306,10 +306,33 @@ InVesalius uses Pip with requirements.txt. There is also a Conda environment. UV
 
 **Programming Languages**: Python
 
-**Duration**: Python
+**Duration**: 90h
 
 **Difficulty level:** Easy
 
 **Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com and Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
 **References**: https://github.com/astral-sh/uv
+
+---
+
+
+### Segment brain in its subparts
+
+Use Machine Learning or an atlas (like https://yalebrainatlas.github.io/YaleBrainAtlas/) or both to segment brain subparts in MRI images.
+
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of Machine Learning and AI.
+
+**Deliverables**:
+- Tool to segment brain in its subparts.
+- Model weights (if used AI).
+
+**Programming Languages**: Python
+
+**Duration**: 350h
+
+**Difficulty level:** hard
+
+**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com and Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com and Renan Matsuda – renan_hiroshi@hotmail.com
+
+**References**: https://yalebrainatlas.github.io/YaleBrainAtlas/
