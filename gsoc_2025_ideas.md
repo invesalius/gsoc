@@ -319,7 +319,8 @@ InVesalius uses Pip with requirements.txt. There is also a Conda environment. UV
 
 ### Segment brain in its subparts
 
-Use Machine Learning or an atlas (like https://yalebrainatlas.github.io/YaleBrainAtlas/) or both to segment brain subparts in MRI images.
+Use Machine Learning (like https://deep-mi.org/research/fastsurfer/) or an atlas (like https://yalebrainatlas.github.io/YaleBrainAtlas/) or both to segment brain subparts in MRI images.
+Segmentation of brain subparts in MRIs is crucial for precise targeting in Transcranial Magnetic Stimulation (TMS). It enables accurate identification of specific brain regions, ensuring stimulation is applied to the correct areas for optimal effectiveness. Proper placement of the TMS coil is essential, and with segmented MRI data, the coil’s position can be precisely aligned with the target brain regions.
 
 **Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of Machine Learning and AI.
 
@@ -335,4 +336,4 @@ Use Machine Learning or an atlas (like https://yalebrainatlas.github.io/YaleBrai
 
 **Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com and Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com and Renan Matsuda – renan_hiroshi@hotmail.com
 
-**References**: https://yalebrainatlas.github.io/YaleBrainAtlas/
+**References**: https://yalebrainatlas.github.io/YaleBrainAtlas/ and https://deep-mi.org/research/fastsurfer/
