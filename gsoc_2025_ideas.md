@@ -337,3 +337,32 @@ Segmentation of brain subparts in MRIs is crucial for precise targeting in Trans
 **Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com and Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com and Renan Matsuda – renan_hiroshi@hotmail.com
 
 **References**: https://yalebrainatlas.github.io/YaleBrainAtlas/ and https://deep-mi.org/research/fastsurfer/
+
+---
+
+
+### Simultaneous visualization and control of Two Robots for Dual Transcranial Magnetic Stimulation
+
+Development and integration of the functionality for simultaneous control of two robots, aimed at applying dual-site Transcranial Magnetic Stimulation (TMS) in InVesalius (currently, support is provided for only one TMS coil attached to one robot). This feature is based on the existing implementation for the use of two or more coils, adapting it for multiple robots. The inclusion of this feature not only improves the speed, accuracy, and safety of the stimulatory process, but also enables the scientific exploration of interactive brain networks, by allowing concurrent, targeted TMS pulses to multiple brain areas. 
+
+**Requirements:**
+Computer with Windows, Linux, or Mac OS installed.
+Python programming language and InVesalius library dependencies.
+A source code editor.
+
+**Deliverables:**
+- Visualization interface showing the robots' movements integrated into the InVesalius neuronavigation system.
+- Coordinate communication between the websocket data receiver, InVesalius brain targets, and GUI.
+- Software module for control and synchronization of the two robots.
+
+**Programming Languages:** Python
+
+**Duration:** 350h
+
+**Difficulty Level:** Hard
+
+**Mentor:** Renan Matsuda - renan_hiroshi@hotmail.com and Thais Marchetti - thaismarchetti123@gmail.com and Lucas Betioli - lucasantoniobetioli@gmail.com
+
+**References**:
+- Neuronavigation: [Track multiple coils simultaneously and show stylus/probe #827](https://github.com/invesalius/invesalius3/pull/827)
+- Robot control: https://github.com/biomaglab/tms-robot-control 
