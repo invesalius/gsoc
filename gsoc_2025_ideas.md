@@ -361,7 +361,7 @@ A source code editor.
 
 **Difficulty Level:** Hard
 
-**Mentor:** Renan Matsuda - renan_hiroshi@hotmail.com and Thais Marchetti - thaismarchetti123@gmail.com and Lucas Betioli - lucasantoniobetioli@gmail.com
+**Mentor:** Renan Matsuda - renan_hiroshi@hotmail.com and Thais Marchetti - thaismarchetti123@gmail.com and Lucas Betioli - lucasantoniobetioli@gmail.com and Victor Malheiro - victorhugomalheiro@gmail.com
 
 **References**:
 - Neuronavigation: [Track multiple coils simultaneously and show stylus/probe #827](https://github.com/invesalius/invesalius3/pull/827)
