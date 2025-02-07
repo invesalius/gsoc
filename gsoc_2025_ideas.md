@@ -366,3 +366,32 @@ A source code editor.
 **References**:
 - Neuronavigation: [Track multiple coils simultaneously and show stylus/probe #827](https://github.com/invesalius/invesalius3/pull/827)
 - Robot control: https://github.com/biomaglab/tms-robot-control 
+
+---
+
+
+### Implement neuronavigation capability for transcranial focused ultrasound (tFUS)
+
+Development and integration of the functionality for neuronavigation of transcranial focused ultrasound transducers (tFUS). InVesalius currently supports only neuronavigation for Transcranial Magnetic Stimulation (TMS) coils. We aim at extending the support to tFUS, which is becoming an important neuromodulation tool to study and and interact with brain function non-invasively. This new feature will significantly extend the user based on InVesalius to support accurate and reproducible neuroscience. 
+
+**Requirements:**
+Computer with Windows, Linux, or Mac OS installed.
+Python programming language and InVesalius library dependencies.
+A source code editor.
+
+**Deliverables:**
+- Visualization interface for coregistration of tFUS transducers.
+- Targeting and guiding interface for tFUS.
+- Minor adjustment to UI/UX considering the tFUS user requirements.
+
+**Programming Languages:** Python
+
+**Duration:** 350h
+
+**Difficulty Level:** Hard
+
+**Mentor:** Victor H. Souza - vhosouza@gmail.com and Renan Matsuda - renan_hiroshi@hotmail.com
+
+**References**:
+- Neuronavigation: [Track multiple coils simultaneously and show stylus/probe #827](https://github.com/invesalius/invesalius3/pull/827)
+- tFUS: [tFUS Basics](https://doi.org/10.3389/fnhum.2021.749162)
