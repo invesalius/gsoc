@@ -248,16 +248,16 @@ When saving or loading files (except DICOM), InVesalius does not provide any fee
  
 ---
 
-### Use Github Actions to create installers for Windows and macOS
+### Use Github Actions to create installers for macOS
 
 [Github Actions](https://docs.github.com/en/actions) is used for various softwares to run tests when a commit or pull request is submitted.
 Also, it can be used to compile software and create binaries ready to be used by the users.
-The idea in this task is to use Github Actions to create nightly and release InVesalius installers for Windows and macOS.
+The idea in this task is to use Github Actions to create nightly and release InVesalius installers for macOS.
 
-**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies.
+**Requirements**: Computer with Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies.
 
 **Deliverables**:
-- Github action to create nightly and release installers for InVesalius for Windows and macOS.
+- Github action to create nightly and release installers for InVesalius for macOS.
 
 **Programming Languages**: Python
 
