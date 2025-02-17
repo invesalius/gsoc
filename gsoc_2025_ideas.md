@@ -163,28 +163,6 @@ Currently, the InVesalius interface is not properly designed for different modes
 
 ---
 
-### Real time neuronavigation motor mapping visualization
-
-The process of transcranial magnetic stimulation neuronavigation involves the generation of motor evoked potentials (MEP), which are detected and measured using electromyography. These MEP signals can be effectively represented through a color map projected onto the brain surface. This innovative approach enables real-time visualization of brain motor mapping, offering a dynamic and comprehensive understanding of neural activity during the procedure.
-
-**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. 
-
-**Deliverables:**
-- Develop pipeline to receive motor mapping data using websocket
-- Projection of motor mapping data, based on the neuronavigation position, in the brain surface
-- GUI to define the color map preferences and customize the number of stimuli
-- Coordinate communication between the websocket data receiver, projection module, and GUI.
-
-**Programming Languages**: Python
-
-**Duration**: 350h
-
-**Difficulty level:** Hard
-
-**Mentor:** Thais Marchetti - thaismarchetti123@gmail.com / Lucas Betioli - lucasantoniobetioli@gmail.com
-
----
-
 ### Surface texture
 
 Add texture to a surface based on the image tissue.
@@ -390,7 +368,7 @@ A source code editor.
 
 **Difficulty Level:** Hard
 
-**Mentor:** Victor H. Souza - vhosouza@gmail.com and Renan Matsuda - renan_hiroshi@hotmail.com
+**Mentor:** Victor H. Souza - vhosouza@gmail.com and Renan Matsuda - renan_hiroshi@hotmail.com and Victor Malheiro - victorhugomalheiro@gmail.com
 
 **References**:
 - Neuronavigation: [Track multiple coils simultaneously and show stylus/probe #827](https://github.com/invesalius/invesalius3/pull/827)
