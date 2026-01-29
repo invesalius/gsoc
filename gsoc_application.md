@@ -1,11 +1,11 @@
-# InVesalius GSoC 2025: Guidelines and instructions #
+# InVesalius GSoC 2026: Guidelines and instructions #
 # Before you apply #
 
 * All projects assume familiarity with Python (and several packages). Aspiring applicants are encouraged to learn it and try to write some code.
 
 * Carefully read the GSoC eligibility rules (see [section 7.1 of the GSoC rules](https://summerofcode.withgoogle.com/rules)).
 
-* Choose one of the [project ideas](https://github.com/invesalius/gsoc/blob/main/gsoc_2025_ideas.md). We are also open to new ideas. In this case write to us at [paulojamorim@gmail.com](mailto:paulojamorim@gmail.com) with the subject "GSoC 2025: New Idea".
+* Choose one of the [project ideas](https://github.com/invesalius/gsoc/blob/main/gsoc_2026_ideas.md). We are also open to new ideas. In this case write to us at [paulojamorim@gmail.com](mailto:paulojamorim@gmail.com) with the subject "GSoC 2026: New Idea".
 
 * IMPORTANT: In order to apply, contact the mentors and follow the steps below. **Remember to submit your final proposal before the deadline on April 2nd, 18:00 (UTC).**
 
@@ -51,10 +51,10 @@ We want to see you can code something relevant -- and that this sample code can 
 
 Applicants are encouraged to submit draft proposals, linking to Google Drive with permission for mentors to comment.
 
-Introduce yourself and send the link to the mentor's email. Use "GSoC 2025: Application" as the message subject. Use this email topic for future discussions during the application, .
+Introduce yourself and send the link to the mentor's email. Use "GSoC 2026: Application" as the message subject. Use this email topic for future discussions during the application, .
 
 
-The Google Drive folder must be named with the following pattern "GSoC2025_LastName_FirstName" and must contain the following files:
+The Google Drive folder must be named with the following pattern "GSoC2026_LastName_FirstName" and must contain the following files:
 
 * **proposal:** A Google doc with the draft proposal.
 
@@ -83,7 +83,7 @@ The draft proposal must contain the topics below. Try to detail as much as possi
 
 * **Biographical Information**
 
-* **Expectations after the end of GSoC 2025** 
+* **Expectations after the end of GSoC 2026** 
 
 **IMPORTANT:** Use [this template](https://docs.google.com/document/d/1F6y3brsEIHcQB-BxpDD8LxyKV7qHUycSY7titupEhx0). Make a copy for your Google Drive.
 
