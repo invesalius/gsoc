@@ -70,49 +70,6 @@ InVesalius uses Marching Cubes to extract surface from volumetric images. It's i
  
 **References**: https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/ https://en.wikipedia.org/wiki/Marching_tetrahedra https://en.wikipedia.org/wiki/Isosurface
 
----
-
-### Improvements in user response (loading and saving files)
-
-When saving or loading files (except DICOM), InVesalius does not provide any feedback to the user. The goal of this task is to implement a window that displays the progress when loading or saving the different types of files that InVesalius handles. This task also includes replacing the progress bar of the volume rendering functionality.
-
-**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background in GUI.
-
-**Deliverables**:
-- Windows with progress bar for the functionalities specified in the referenced issues (references).
-
-**Programming Languages**: Python
-
-**Duration**: 90h
-
-**Difficulty level:** Easy
-
-**Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
-
- 
----
-
-### Use Github Actions to create installers for macOS
-
-[Github Actions](https://docs.github.com/en/actions) is used for various softwares to run tests when a commit or pull request is submitted.
-Also, it can be used to compile software and create binaries ready to be used by the users.
-The idea in this task is to use Github Actions to create nightly and release InVesalius installers for macOS.
-
-**Requirements**: Computer with Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies.
-
-**Deliverables**:
-- Github action to create nightly and release installers for InVesalius for macOS.
-
-**Programming Languages**: Python
-
-**Duration**: 175h
-
-**Difficulty level:** Intermediate
-
-**Mentor:** Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com and Thiago Franco de Moraes - totonixsame@gmail.com
-
-**References**: https://docs.github.com/en/actions https://pyinstaller.org/en/stable/
-
 
 ---
 
