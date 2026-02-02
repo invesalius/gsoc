@@ -128,3 +128,35 @@ A source code editor.
 **References**:
 - Neuronavigation: [Track multiple coils simultaneously and show stylus/probe #827](https://github.com/invesalius/invesalius3/pull/827)
 - tFUS: [tFUS Basics](https://doi.org/10.3389/fnhum.2021.749162)
+  
+---
+
+### Adapt PACS implementation to current InVesalius
+
+**Programming Languages:** Python
+
+**Duration:** 
+
+**Difficulty Level:** Medium
+
+---
+
+### Fix GUI inconsistencies
+
+**Programming Languages:** Python
+
+**Duration:** 
+
+**Difficulty Level:** Easy
+
+--- 
+
+### Convert GUI from WXPython to Qt
+
+
+**Programming Languages:** Python
+
+**Duration:** 350h
+
+**Difficulty Level:** Hard
+
