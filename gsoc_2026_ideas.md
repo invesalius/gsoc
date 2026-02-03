@@ -8,22 +8,34 @@ All the current ideas for GSoC 2026 are listed bellow:
 
 ---
 
-### 3D edition of masks
+### Fixes in 3D mask editing and mask preview
 
-User can edit a mask in InVesalius slice by slice. That is a very repetitive and error prone job. Since InVesalius has 3D visualizations, it's possible to draw over the rendering area and remove the voxels projected in the painted areas.
+Fix 1 - 3D edition tools: Polygons are not removed after using the tool. 
+https://github.com/invesalius/invesalius3/issues/1078
+
+Fix 2 - 3D edition tools: The “Clean Polygons” button clears the edits even when “Edit in 3D” is disabled. 
+https://github.com/invesalius/invesalius3/issues/1079
+
+Fix 3 - Mask Preview:  Volume is not updated after selecting part of the mask. 
+https://github.com/invesalius/invesalius3/issues/1080
+
+Fix 4 - Mask Preview: Update the volume color (in red), as in the slices, when a region is selected with "Tools -> Mask -> Select parts". 
+https://github.com/invesalius/invesalius3/issues/1081
 
 **Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. Good background of computer graphics.
 
 **Deliverables**:
-- Tool to edit masks using projections.
+- Bug fixes for the 3D mask editing and mask preview tools.
 
 **Programming Languages**: Python
 
-**Duration**: 350h
+**Duration**: 90h (small)
 
-**Difficulty level:** Hard
+**Difficulty level:** Medium
 
-**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
+**Mentor:**  
+Thiago Franco de Moraes - totonixsame@gmail.com  
+Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
 **References**: https://github.com/invesalius/invesalius3/issues/91 and https://en.wikipedia.org/wiki/3D_projection
 
@@ -40,11 +52,12 @@ Add texture to a surface based on the image tissue.
 
 **Programming Languages**: Python
 
-**Duration**: 350h
+**Duration**: 350h (large)
 
 **Difficulty level:** Hard
 
-**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
+**Mentor:**  
+Thiago Franco de Moraes - totonixsame@gmail.com
 
 **References**: https://en.wikipedia.org/wiki/Texture_mapping
 
@@ -62,11 +75,12 @@ InVesalius uses Marching Cubes to extract surface from volumetric images. It's i
 
 **Programming Languages**: Python and Cython
 
-**Duration**: 350h
+**Duration**: 350h (large)
 
 **Difficulty level:** Hard
 
-**Mentor:** Thiago Franco de Moraes - totonixsame@gmail.com
+**Mentor:**  
+Thiago Franco de Moraes - totonixsame@gmail.com
  
 **References**: https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/ https://en.wikipedia.org/wiki/Marching_tetrahedra https://en.wikipedia.org/wiki/Isosurface
 
@@ -89,11 +103,15 @@ A source code editor.
 
 **Programming Languages:** Python
 
-**Duration:** 90h
+**Duration:** 90h (small)
 
 **Difficulty Level:** Medium 
 
-**Mentor:** Renan Matsuda - renan_hiroshi@hotmail.com and Thais Marchetti - thaismarchetti123@gmail.com and Lucas Betioli - lucasantoniobetioli@gmail.com and Victor Malheiro - victorhugomalheiro@gmail.com
+**Mentor:**  
+Renan Matsuda - renan_hiroshi@hotmail.com  
+Thais Marchetti - thaismarchetti123@gmail.com  
+Lucas Betioli - lucasantoniobetioli@gmail.com  
+Victor Malheiro - victorhugomalheiro@gmail.com
 
 **References**:
 - Similar to import mesh: https://github.com/invesalius/invesalius3/pull/68
@@ -121,7 +139,7 @@ A source code editor.
 
 **Programming Languages:** Python  
 
-**Duration:** 175h  
+**Duration:** 175h (medium)
 
 **Difficulty Level:** Medium  
 
@@ -154,7 +172,7 @@ A source code editor.
 
 **Programming Languages:** Python  
 
-**Duration:** 90h  
+**Duration:** 90h (small) 
 
 **Difficulty Level:** Low  
 
@@ -194,13 +212,13 @@ Basic knowledge of EEG, TMS, and TEP analysis.
 
 **Programming Languages:** Python  
 
-**Duration:** 350h  
+**Duration:** 350h (large) 
 
 **Difficulty Level:** Very Hard  
 
 **Mentor:**  
 Renan Matsuda - renan_hiroshi@hotmail.com  
-Marcio Campos - marcio.campos6@gmail.com
+Marcio Campos - marcio.campos6@gmail.com  
 Lucas Betioli - lucasantoniobetioli@gmail.com  
 
 **References:**  
@@ -226,11 +244,14 @@ A source code editor.
 
 **Programming Languages:** Python
 
-**Duration:** 350h
+**Duration:** 350h (large)
 
 **Difficulty Level:** Hard
 
-**Mentor:** Victor H. Souza - vhosouza@gmail.com and Renan Matsuda - renan_hiroshi@hotmail.com and Victor Malheiro - victorhugomalheiro@gmail.com
+**Mentor:**  
+Victor H. Souza - vhosouza@gmail.com  
+Renan Matsuda - renan_hiroshi@hotmail.com  
+Victor Malheiro - victorhugomalheiro@gmail.com
 
 **References**:
 - Neuronavigation: [Track multiple coils simultaneously and show stylus/probe #827](https://github.com/invesalius/invesalius3/pull/827)
