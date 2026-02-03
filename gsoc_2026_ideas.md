@@ -57,7 +57,7 @@ Add texture to a surface based on the image tissue.
 **Mentor:**  
 Thiago Franco de Moraes - totonixsame@gmail.com
 
-**References**: https://en.wikipedia.org/wiki/Texture_mapping
+**References**: https://en.wikipedia.org/wiki/Texture_mapping https://doi.org/10.1080/21681163.2016.1254069
 
 ---
 
