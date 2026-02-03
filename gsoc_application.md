@@ -7,7 +7,10 @@
 
 * Choose one of the [project ideas](https://github.com/invesalius/gsoc/blob/main/gsoc_2026_ideas.md). We are also open to new ideas. In this case write to us at [paulojamorim@gmail.com](mailto:paulojamorim@gmail.com) with the subject "GSoC 2026: New Idea".
 
-* IMPORTANT: In order to apply, contact the mentors and follow the steps below. **Remember to submit your final proposal before the deadline on March 31st, 18:00 (UTC).**
+* IMPORTANT 1: We understand that everyone has a fairly high workload and study load, but **we do not recommend the use of text or source code generated entirely by AI**. There is no issue with using AI for queries or tips to help solve a problem, but we do not encourage the use of AI without first thoroughly understanding the problem to be solved (in the case of code) or without having written the text yourself (in the case of the proposal).
+
+* IMPORTANT 2: In order to apply, contact the mentors and follow the steps below. **Remember to submit your final proposal before the deadline on March 31st, 18:00 (UTC).**
+
 
 # Applying #
 
@@ -51,7 +54,7 @@ We want to see you can code something relevant -- and that this sample code can 
 
 Applicants are encouraged to submit draft proposals, linking to Google Drive with permission for mentors to comment.
 
-Introduce yourself and send the link to the mentor's email. Use "GSoC 2026: Application" as the message subject. Use this email topic for future discussions during the application, .
+Introduce yourself and send the link to the mentor's email. Use "GSoC 2026: Application" as the message subject. Use this email topic for future discussions during the application. 
 
 
 The Google Drive folder must be named with the following pattern "GSoC2026_LastName_FirstName" and must contain the following files:
