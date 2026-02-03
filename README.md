@@ -8,6 +8,7 @@
 
 ## Ideas for projects
 
-- [2023](https://github.com/invesalius/gsoc/blob/main/gsoc_2023_ideas.md) $~~$ ([Selected projects](https://github.com/invesalius/gsoc/blob/main/gsoc_2023_selected.md))
+- [2023](https://github.com/invesalius/gsoc/blob/main/gsoc_2023_ideas.md) $~~$
 - [2024](https://github.com/invesalius/gsoc/blob/main/gsoc_2024_ideas.md) $~~$
 - [2025](https://github.com/invesalius/gsoc/blob/main/gsoc_2025_ideas.md) $~~$
+- [2025](https://github.com/invesalius/gsoc/blob/main/gsoc_2026_ideas.md) $~~$
