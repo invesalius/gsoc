@@ -259,7 +259,7 @@ Victor Malheiro - victorhugomalheiro@gmail.com
 
 ### Adapt PACS implementation to current InVesalius
 
-There is a pull request for the PACS tool that requires updates in order to be merged. The tool also needs more testing on servers such as DCM4CHEE and Orthanc. This activity will focus on code fixes to enable the merge and on testing the interaction between InVesalius (client) and PACS servers for DICOM send, retrieve, and query operations.
+There is a pull request (https://github.com/invesalius/invesalius3/pull/644) for the PACS tool that requires updates in order to be merged. The tool also needs more testing on servers such as DCM4CHEE and Orthanc. This activity will focus on code fixes to enable the merge and on testing the interaction between InVesalius (client) and PACS servers for DICOM send, retrieve, and query operations.
 
 **Requirements:** 
 Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. A PACS server like Orthanc or DCM4CHE.
