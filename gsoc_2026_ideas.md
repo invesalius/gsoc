@@ -4,8 +4,6 @@ See also the instructions for applying [here](https://github.com/invesalius/gsoc
 
 All the current ideas for GSoC 2026 are listed bellow:
 
-## DRAFT - Under update ##
-
 ---
 
 ### Fixes in 3D mask editing and mask preview
@@ -261,11 +259,23 @@ Victor Malheiro - victorhugomalheiro@gmail.com
 
 ### Adapt PACS implementation to current InVesalius
 
+There is a pull request for the PACS tool that requires updates in order to be merged. The tool also needs more testing on servers such as DCM4CHEE and Orthanc. This activity will focus on code fixes to enable the merge and on testing the interaction between InVesalius (client) and PACS servers for DICOM send, retrieve, and query operations.
+
+**Requirements:** 
+Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius libraries dependencies. A PACS server like Orthanc or DCM4CHE.
+
+**Deliverables:**
+A tool capable of sending, retrieving, and querying DICOM data on PACS servers.
+
 **Programming Languages:** Python
 
-**Duration:** 
+**Duration:** 175h (medium)
 
 **Difficulty Level:** Medium
+
+**Mentor:**  
+Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com  
+Thiago Franco de Moraes - totonixsame@gmail.com
 
 ---
 
