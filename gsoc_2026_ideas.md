@@ -278,7 +278,7 @@ Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 Thiago Franco de Moraes - totonixsame@gmail.com
 
 ---
-
+<!--
 ### Fix GUI inconsistencies
 
 **Programming Languages:** Python
@@ -296,5 +296,4 @@ Thiago Franco de Moraes - totonixsame@gmail.com
 
 **Duration:** 350h
 
-**Difficulty Level:** Hard
-
+**Difficulty Level:** Hard-->
