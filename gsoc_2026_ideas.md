@@ -91,7 +91,7 @@ Thiago Franco de Moraes - totonixsame@gmail.com
 ---
 
 
-### Importing `.nii` Masks into InVesalius
+### Importing `.nii` masks into InVesalius
 
 Implementation of a basic feature to import segmentation masks in **NIfTI format (.nii / .nii.gz)** into InVesalius. This allows users to load externally created masks (e.g., regions of interest) and visualize them together with existing medical image data.
 
@@ -124,7 +124,7 @@ Victor Malheiro - victorhugomalheiro@gmail.com
 
 
 
-### Visualization of the Selected Marker on Image Slices
+### Visualization of the selected marker on image slices
 
 Implementation of a feature to visualize the **selected marker** on axial, sagittal, and coronal slices. When a marker is selected in the marker list or 3D view, its position is highlighted on the corresponding image slices.
 
@@ -158,7 +158,7 @@ Victor Malheiro - victorhugomalheiro@gmail.com
 ---
 
 
-### Saving Timestamp for Each Created Marker
+### Saving timestamp for each created marker
 
 Implementation of a feature to automatically store a **timestamp (date and time)** when a marker is created. The timestamp is saved together with the marker data and can be used for later analysis and synchronization with external systems (e.g., EEG, EMG, TMS).
 Backward compatibility with older marker files is required.
@@ -190,7 +190,7 @@ Victor Malheiro - victorhugomalheiro@gmail.com
 
 ---
 
-### TMS-Evoked Potential (TEP) Visualization Integration in InVesalius
+### TMS-Evoked Potential (TEP) visualization integration in InVesalius
 
 Implementation of a visualization module for **TMS-evoked potentials (TEPs)** within InVesalius. Initially, EEG signals containing TEP data are loaded from files and visualized alongside neuronavigation data, enabling spatial and temporal correlation between cortical activity, stimulation sites, and navigation events (e.g., markers). The software architecture must be **flexible and extensible**, allowing future integration of **real-time TMS-EEG acquisition**.
 
