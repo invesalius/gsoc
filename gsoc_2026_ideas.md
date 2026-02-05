@@ -37,7 +37,8 @@ Fix 7 - Mask Preview: Update the volume color (in red), as in the slices, when a
 Thiago Franco de Moraes - totonixsame@gmail.com  
 Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 
-**References**: https://github.com/invesalius/invesalius3/issues/91 and https://en.wikipedia.org/wiki/3D_projection
+**References**:
+- https://github.com/invesalius/invesalius3/issues/91 and https://en.wikipedia.org/wiki/3D_projection
 
 ---
 
@@ -59,7 +60,9 @@ Add texture to a surface based on the image tissue.
 **Mentor:**  
 Thiago Franco de Moraes - totonixsame@gmail.com
 
-**References**: https://en.wikipedia.org/wiki/Texture_mapping https://doi.org/10.1080/21681163.2016.1254069
+**References**: 
+- https://en.wikipedia.org/wiki/Texture_mapping 
+- https://doi.org/10.1080/21681163.2016.1254069
 
 ---
 
