@@ -317,6 +317,7 @@ Victor H. Souza - vhosouza@gmail.com
 **References**:
 https://github.com/invesalius/invesalius3/pull/473
 https://github.com/invesalius/invesalius3/pull/1011
+[SimNIBS](https://simnibs.github.io/simnibs/build/html/tutorial/scripting.html#scripting-tutorial)
 <!--
 ### Fix GUI inconsistencies
 
