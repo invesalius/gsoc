@@ -283,6 +283,41 @@ Paulo Henrique Junqueira Amorim - paulojamorim@gmail.com
 Thiago Franco de Moraes - totonixsame@gmail.com
 
 ---
+
+### SimNIBS TMS Electric Field Simulation and Head Modeling Integration in InVesalius
+
+Implementation of a direct integration between SimNIBS and InVesalius to enable subject-specific head model generation and TMS electric field (E-field) simulations within InVesalius.
+
+Currently, head modeling and E-field simulations require external workflows and manual data handling. This project will integrate the full pipeline into InVesalius, allowing users to generate MRI-based head models, position and orient TMS coils using existing neuronavigation tools, configure simulation parameters, execute simulations internally, and visualize E-field magnitude (|E|) directly on 3D anatomical models.
+
+The activity will focus on implementing a Python-based interface to SimNIBS, aligning coordinate systems, handling simulation inputs/outputs robustly, and integrating results into the InVesalius visualization environment.
+
+**Requirements:**  
+Computer with Windows, Linux or Mac OS installed. A source code editor, Python language and InVesalius library dependencies. SimNIBS installed and accessible via Python. Basic knowledge of MRI segmentation, TMS, and E-field modeling.
+
+**Deliverables:**  
+- Integrated MRI-based head modeling pipeline.  
+- Python interface module connecting InVesalius to SimNIBS.  
+- UI panel for head modeling and simulation configuration.  
+- Execution of TMS E-field simulations within InVesalius.  
+- 3D visualization of E-field magnitude (|E|).  
+- Technical documentation.
+
+**Programming Languages:** Python  
+
+**Duration:** 400h (large)  
+
+**Difficulty Level:** Very Hard  
+
+**Mentor:**  
+Renan Matsuda - renan_hiroshi@hotmail.com
+Ana Soto - ana.sotodelacruz@aalto.fi
+Victor H. Souza - vhosouza@gmail.com  
+
+**References**:
+https://github.com/invesalius/invesalius3/pull/473
+https://github.com/invesalius/invesalius3/pull/1011
+[SimNIBS](https://simnibs.github.io/simnibs/build/html/tutorial/scripting.html#scripting-tutorial)
 <!--
 ### Fix GUI inconsistencies
 
