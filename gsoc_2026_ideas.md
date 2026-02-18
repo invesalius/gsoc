@@ -70,7 +70,7 @@ Thiago Franco de Moraes - totonixsame@gmail.com
 
 The 3D Manufacturing Format (3MF) is a file format for 3D printing that allows design applications to exchange high-fidelity 3D models with other applications, platforms, services, and printers. Add support for exporting colored triangular meshes (surfaces) in .3MF format. The .3MF import functionality should also be added to the “3D Surfaces” tab, which currently supports STL, OBJ, and PLY imports.
 
-**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Rust language (for performance reasons), Python and InVesalius libraries dependencies. Good background of computer graphics. If the lib3mf library is used, its performance should be tested.
+**Requirements**: Computer with Windows, Linux or Mac OS installed. A source code editor, Rust language (for performance reasons), Python and InVesalius libraries dependencies. Good background of computer graphics. If the lib3mf library is used, its performance should be tested. It is important that the generated file can be opened in slicers such as [Orca Slicer](https://orca-slicer.com/)
 
 **Deliverables**:
 - Tool to export and import 3MF file format.
