@@ -101,7 +101,7 @@ InVesalius uses Marching Cubes to extract surface from volumetric images. It's i
 **Deliverables**:
 - Tool to generate surfaces using other methods than Marching Cubes.
 
-**Programming Languages**: Python and Cython
+**Programming Languages**: Python and Rust
 
 **Duration**: 350h (large)
 
