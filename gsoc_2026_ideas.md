@@ -14,11 +14,11 @@ Fix 2 - 3D edition tools: The “Clean Polygons” button clears the edits even 
 
 Fix 3 - 3D edition tools: Incorrect volume selection when it occupies the entire viewport. https://github.com/invesalius/invesalius3/issues/1084   
 
-Fix 4 - 3D edition tools: Empty volume screen when activating 3D editing after DICOM import. https://github.com/invesalius/invesalius3/issues/1085   
+Fix 4 - ~~3D edition tools: Empty volume screen when activating 3D editing after DICOM import. https://github.com/invesalius/invesalius3/issues/1085~~   
 
 Fix 5 - 3D edition tools: Incorrectly edited volume after importing a DICOM study and enabling “Edit in 3D”. https://github.com/invesalius/invesalius3/issues/1086   
 
-Fix 6 - Mask Preview:  Volume is not updated after selecting part of the mask. https://github.com/invesalius/invesalius3/issues/1080
+Fix 6 - ~~Mask Preview:  Volume is not updated after selecting part of the mask. https://github.com/invesalius/invesalius3/issues/1080~~
 
 Fix 7 - Mask Preview: Update the volume color (in red), as in the slices, when a region is selected with "Tools -> Mask -> Select parts". https://github.com/invesalius/invesalius3/issues/1081   
 
