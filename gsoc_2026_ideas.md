@@ -10,7 +10,7 @@ All the current ideas for GSoC 2026 are listed bellow:
 
 Fix 1 - 3D edition tools: Polygons are not removed after using the tool. https://github.com/invesalius/invesalius3/issues/1078   
 
-Fix 2 - 3D edition tools: The “Clean Polygons” button clears the edits even when “Edit in 3D” is disabled. https://github.com/invesalius/invesalius3/issues/1079   
+Fix 2 - ~3D edition tools: The “Clean Polygons” button clears the edits even when “Edit in 3D” is disabled. https://github.com/invesalius/invesalius3/issues/1079~   
 
 Fix 3 - 3D edition tools: Incorrect volume selection when it occupies the entire viewport. https://github.com/invesalius/invesalius3/issues/1084   
 
