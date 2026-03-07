@@ -6,9 +6,9 @@ All the current ideas for GSoC 2026 are listed bellow:
 
 ---
 
-### Fixes in 3D mask editing and mask preview
+### ~~Fixes in 3D mask editing and mask preview~~
 
-Fix 1 - 3D edition tools: Polygons are not removed after using the tool. https://github.com/invesalius/invesalius3/issues/1078   
+Fix 1 - ~~3D edition tools: Polygons are not removed after using the tool. https://github.com/invesalius/invesalius3/issues/1078~~   
 
 Fix 2 - ~~3D edition tools: The “Clean Polygons” button clears the edits even when “Edit in 3D” is disabled. https://github.com/invesalius/invesalius3/issues/1079~~   
 
@@ -16,7 +16,7 @@ Fix 3 - ~~3D edition tools: Incorrect volume selection when it occupies the enti
 
 Fix 4 - ~~3D edition tools: Empty volume screen when activating 3D editing after DICOM import. https://github.com/invesalius/invesalius3/issues/1085~~   
 
-Fix 5 - 3D edition tools: Incorrectly edited volume after importing a DICOM study and enabling “Edit in 3D”. https://github.com/invesalius/invesalius3/issues/1086   
+Fix 5 - ~~3D edition tools: Incorrectly edited volume after importing a DICOM study and enabling “Edit in 3D”. https://github.com/invesalius/invesalius3/issues/1086~~   
 
 Fix 6 - ~~Mask Preview:  Volume is not updated after selecting part of the mask. https://github.com/invesalius/invesalius3/issues/1080~~
 
