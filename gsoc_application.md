@@ -95,7 +95,7 @@ See also the [contributor guide](https://google.github.io/gsocguides/student/wri
 
 ### 4. Final submission ###
 
-After following steps 1, 2 and 3 with your potential mentor, applications can be submitted through the [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com) website starting on March 18th until [April 8th at 18:00 (UTC).](https://developers.google.com/open-source/gsoc/timeline?hl=en)
+After following steps 1, 2 and 3 with your potential mentor, applications can be submitted through the [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com) website starting on March 16th until [March 31st at 18:00 (UTC).](https://developers.google.com/open-source/gsoc/timeline?hl=en)
 
 
 ### 5. Cross your fingers ###
