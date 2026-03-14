@@ -76,39 +76,6 @@ Thiago Franco de Moraes - totonixsame@gmail.com
  
 **References**: https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/ https://en.wikipedia.org/wiki/Marching_tetrahedra https://en.wikipedia.org/wiki/Isosurface
 
-
----
-
-
-### Importing `.nii` masks into InVesalius
-
-Implementation of a basic feature to import segmentation masks in **NIfTI format (.nii / .nii.gz)** into InVesalius. This allows users to load externally created masks (e.g., regions of interest) and visualize them together with existing medical image data.
-
-**Requirements:**
-Computer with Windows, Linux, or Mac OS installed.
-Python programming language and InVesalius library dependencies.
-A source code editor.
-
-**Deliverables:**
-- Import of `.nii` / `.nii.gz` mask files into mask lisk 
-- Basic documentation  
-
-**Programming Languages:** Python
-
-**Duration:** 90h (small)
-
-**Difficulty Level:** Medium 
-
-**Mentor:**  
-Renan Matsuda - renan_hiroshi@hotmail.com  
-Thais Marchetti - thaismarchetti123@gmail.com  
-Lucas Betioli - lucasantoniobetioli@gmail.com  
-Victor Malheiro - victorhugomalheiro@gmail.com
-
-**References**:
-- Similar to import mesh: https://github.com/invesalius/invesalius3/pull/68
-
-
 ---
 
 
