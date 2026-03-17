@@ -27,7 +27,7 @@ Thiago Franco de Moraes - totonixsame@gmail.com
 **References**: 
 - https://en.wikipedia.org/wiki/Texture_mapping 
 - https://doi.org/10.1080/21681163.2016.1254069
-
+- https://github.com/tfmoraes/medical_triangle_texture
 ---
 
 ### Export and import using the .3MF format
