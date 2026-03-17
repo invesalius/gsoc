@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+pydicom
+vtk
+cython
+pillow
+scikit-image
+wxPython
+pytest
